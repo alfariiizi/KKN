@@ -6,3 +6,6 @@
 - Laporan harian:
 	- [2022-06-30](./Periodic/MD-version/KKN-20220630.md). Untuk versi PDF nya bisa di-klik [disini](./Periodic/PDF-version/KKN-20220630.pdf).
 	- [2022-07-01](./Periodic/MD-version/KKN-20220701.md). Untuk versi PDF nya bisa di-klik [disini](./Periodic/PDF-version/KKN-20220701.pdf).
+	- [2022-07-02](./Periodic/MD-version/KKN-20220702.md). Untuk versi PDF nya bisa di-klik [disini](./Periodic/PDF-version/KKN-20220702pdf).
+	- [2022-07-03](./Periodic/MD-version/KKN-20220703.md). Untuk versi PDF nya bisa di-klik [disini](./Periodic/PDF-version/KKN-20220703.pdf).
+	- [2022-07-04](./Periodic/MD-version/KKN-20220704.md). Untuk versi PDF nya bisa di-klik [disini](./Periodic/PDF-version/KKN-20220704.pdf).
